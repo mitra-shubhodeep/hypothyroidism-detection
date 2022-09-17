@@ -1,5 +1,6 @@
 # hypothyroidism-detection
-![image](https://user-images.githubusercontent.com/97290284/190846776-48a511c8-3ef7-4574-befc-4d6a19cb9310.png)
+![image](https://user-images.githubusercontent.com/97290284/190846856-ec4633c3-59ef-4d85-9cb5-1eb3a38a8ae8.png)
+
 
 The objective of the project is to predict whether a patient has thyroid disease or not based on their medical data including results of some tests, and find the major factors that may lead to signs of presence of thyroid, using machine learning models and statistical analysis.
 
