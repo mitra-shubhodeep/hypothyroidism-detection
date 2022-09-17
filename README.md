@@ -38,3 +38,12 @@ The explanatory variables are:
 28.	TBG: TBG level in blood from blood tests
 
 The target variable, binaryClass i.e. the presence of thyroid disease, has 3481 P’s and 291 N’s, i.e. in the data there are 3481 people who do not have thyroid while 291 people have thyroid.
+
+After analysis, the following features were found to have the most impact on our target variable:
+  TSH, FTI, TT4, T3, on thyroxine
+
+The following accuracy scores were obtained by the models:
+  Logistic Regression : 0.9536423841059603
+  Support Vector Machines (with linear kernel) : 0.9615894039735099
+  Decision Tree : 0.9788079470198675
+
