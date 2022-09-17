@@ -1,4 +1,6 @@
 # hypothyroidism-detection
+![image](https://user-images.githubusercontent.com/97290284/190846776-48a511c8-3ef7-4574-befc-4d6a19cb9310.png)
+
 The objective of the project is to predict whether a patient has thyroid disease or not based on their medical data including results of some tests, and find the major factors that may lead to signs of presence of thyroid, using machine learning models and statistical analysis.
 
 The data being used has been taken from UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/thyroid+disease). The dataset used for analysis is called hypothyroid. The data contains 28 explanatory variables that contain a lot of information about the patient’s medical history, relevant information about patients such as tests that have been done and their results etc.
